@@ -1,13 +1,13 @@
 # Climate_Change_Warriors
 
-## Elizabeth: 
+### Elizabeth: 
 Sea Level Rise
 
-## Alex: 
+### Alex: 
 Polar Ice Cap Melt
 
-## Danyelle: 
+### Danyelle: 
 Greenhouse Gas Emissions/Concentration
 
-## Ryan: 
+### Ryan: 
 Temperature Differences
