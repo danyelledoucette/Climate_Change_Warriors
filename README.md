@@ -11,3 +11,6 @@ Greenhouse Gas Emissions/Concentration
 
 ### Ryan: 
 Temperature Differences
+
+### Research Question:
+What are the effects of global warming and how can we measure them over time?
