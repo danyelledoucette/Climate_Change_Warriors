@@ -10,7 +10,7 @@ Polar Ice Cap Melt
 Greenhouse Gas Emissions/Concentration
 
 ### Ryan: 
-Temperature Differences
+Temperature Differences/Patterns/Trends
 
 ### Research Questions:
 Is there substantial and verfiable data that can be used as evidence to support the phenomenon of human induced climate change? /
