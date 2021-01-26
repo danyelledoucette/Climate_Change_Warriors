@@ -30,5 +30,5 @@ Assuming there is enough data to support the concept of climate change with patt
 #What makes these data sources reliable?
 #What evidence might make these data sources questionable, if any?
   ##(Big Idea/Group Question) What are the effects and/or measureable physical changes that can be directly/causaly linked to the temperature trends if any?
-How are different measurements/effects of climate change connected with the data from my group members and how can we use this data to measure these connections/networks of effects? 
+How are different measurements/effects of climate change connected with the data from my group members and how can we use this data to measure these connections/networks of effects? Lastly, what conclusions and/or projections for the future can be drawn by combining our data and related findings?
 
