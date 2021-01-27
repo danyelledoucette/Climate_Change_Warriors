@@ -13,14 +13,26 @@ Extreme Weather Events
 Temperature Differences/Patterns/Trends (artic sea ice change)
 
 ### Research Questions:
-Is there substantial and verfiable data that can be used as evidence to support the phenomenon of human induced climate change? /
-How has this data been gathered/measured and can the data be trusted and verified? /
-Are there trends/patterns in the data that are considerable enough to support a professional analysis with conclusions? What are limiatations in this data? /
-If data exists to support climate change, what effects (past and present) that can be substantially linked to these changes? /
-Assuming there is enough data to support the concept of climate change with patterns/trends, what projections can be reasonably drawn from the data for the future?
+(Main RQs)
+Do CO2 admissions combined with global temperature variations since the beginning of the industrial revolution provide substantial evidence to support the phenomenon of human induced (anthropogenic) climate change? /
+Are there salient trends/patterns in CO2 and temperature data that fortify the anthropogenic theory of climate change?
+How has this data been gathered/measured? 
+Can the data be trusted and verified? /
+What are limiatations in this data? /
+Are there holes/gaps in the conclusions drawn from the data that skeptics might exploit to discredit the findings?  What might they be and how would they be answered? 
 
-### Ryan's Research Questions for Temperature Variation /
-#Has the earth undergone temperature changes since cerca the industrial revolution in the West?
+(RQs to pursue if time/data allows in order of importance)
+Is there data to support continued polar ice cap retreat and how does this affect global temperature/climate change?
+Assuming the data does support an anthropogenic model of climate change, what effects (past and present) that can be substantially linked to these changes? /
+Assuming there is enough data to support the concept of climate change with patterns/trends, what effects (future) might be reasonably projected?
+
+(Super Bonus RQs- only if time and energy allows)
+What reasons might individuals/groups have for denying data that supports anthropogenic climate change and how might the data refute these claims?
+What reasons might countries/state actors have for denying data that supports anthropogenic climate change and how might the data refute these claims?
+
+
+### Ryan's Research Questions for Temperature Variation / 
+#Has the earth undergone temperature changes in the artic regions ( since cerca the industrial revolution in the West?
 #Is there a trend and/or pattern in those temperature changes?
 #If patterns/trends are found, where are they most prominent?
 #How can these temperature trends be measured?
