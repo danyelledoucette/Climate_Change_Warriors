@@ -1,16 +1,17 @@
 # Climate_Change_Warriors
 
 ### Elizabeth: 
-Sea Level Rise
+Primary: Temperate/Equatorial temperatures (Differences/Patterns/Trends) since industrial rev or 1900 (secondary: gloabl temps)
 
 ### Alex: 
-Greenhouse Gas Emissions/Concentration
+Primary: Greenhouse Gas Emissions/Concentration (secondary: breakdown by category, e.g., cars, industry)
 
-### Danyelle: 
-Extreme Weather Events
+### Danyelle: (GitMC) 
+Primary: Greenhouse Gas Emissions/Concentration (seconday: help with Ice Core data if needed)
 
 ### Ryan: 
-Temperature Differences/Patterns/Trends (artic sea ice change)
+SubPolar/Polar Temperature Differences/Patterns/Trends (secondary: data pull, analysis of Ice Core data; some assistance from Danyelle likely)
+(if time allows: artic sea ice change)
 
 ### Research Questions:
 (Main RQs)
@@ -30,6 +31,10 @@ Assuming there is enough data to support the concept of climate change with patt
 What reasons might individuals/groups have for denying data that supports anthropogenic climate change and how might the data refute these claims?
 What reasons might countries/state actors have for denying data that supports anthropogenic climate change and how might the data refute these claims?
 
+END OF GROUP OVERVIEW
+
+
+Individual RQ Overviews (optional)
 
 ### Ryan's Research Questions for Temperature Variation / 
 #Has the earth undergone temperature changes in the artic regions ( since cerca the industrial revolution in the West?
