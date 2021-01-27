@@ -4,10 +4,10 @@
 Sea Level Rise
 
 ### Alex: 
-Polar Ice Cap Melt
+Greenhouse Gas Emissions/Concentration
 
 ### Danyelle: 
-Greenhouse Gas Emissions/Concentration
+Extreme Weather Events/
 
 ### Ryan: 
 Temperature Differences/Patterns/Trends
