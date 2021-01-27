@@ -7,7 +7,7 @@ Sea Level Rise
 Greenhouse Gas Emissions/Concentration
 
 ### Danyelle: 
-Extreme Weather Events/
+Extreme Weather Events
 
 ### Ryan: 
 Temperature Differences/Patterns/Trends
