@@ -10,7 +10,7 @@ Greenhouse Gas Emissions/Concentration
 Extreme Weather Events
 
 ### Ryan: 
-Temperature Differences/Patterns/Trends
+Temperature Differences/Patterns/Trends (artic sea ice change)
 
 ### Research Questions:
 Is there substantial and verfiable data that can be used as evidence to support the phenomenon of human induced climate change? /
