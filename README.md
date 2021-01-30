@@ -12,8 +12,7 @@ Primary: Greenhouse Gas Emissions/Concentration (seconday: help with Ice Core da
 ### Ryan: 
 SubPolar/Polar Temperature Differences/Patterns/Trends (secondary: data pull, analysis of Ice Core data; some assistance from Danyelle likely)
 (if time allows: artic sea ice change)
-Temperate Zone:  US:  Orange County / New Orleans
-                 Bangladesh:  
+Temperate Zone:  US: China 
 
 ### Research Questions:
 (Main RQs)
