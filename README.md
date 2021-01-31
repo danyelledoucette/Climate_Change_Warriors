@@ -7,7 +7,7 @@ Primary: Temperate/Equatorial temperatures (Differences/Patterns/Trends) since i
 Primary: Greenhouse Gas Emissions/Concentration (secondary: breakdown by category, e.g., cars, industry)
 
 ### Danyelle: (GitMC) 
-Primary: Greenhouse Gas Emissions/Concentration (seconday: help with Ice Core data if needed)
+Primary: Arctic Ice Extent Analysis (seconday: Greenhouse Gas Emissions/Concentration and help with Ice Core data if needed)
 
 ### Ryan: 
 SubPolar/Polar Temperature Differences/Patterns/Trends (secondary: data pull, analysis of Ice Core data; some assistance from Danyelle likely)
