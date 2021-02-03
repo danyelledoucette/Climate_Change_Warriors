@@ -1,7 +1,7 @@
 # Climate_Change_Warriors
 
 ### Elizabeth: 
-Primary: Temperate/Equatorial temperatures (Differences/Patterns/Trends) since industrial rev or 1900 (secondary: gloabl temps)
+Primary: Temperate/Equatorial temperatures (Differences/Patterns/Trends) since industrial rev or 1901. This includes Rio de Janeiro in Brazil, Jakarta in Indonesia, and New Orleans and Orange County in United States in America.   
 
 ### Alex: 
 Primary: Greenhouse Gas Emissions/Concentration (secondary: breakdown by category, e.g., cars, industry)
