@@ -10,9 +10,8 @@ Primary: Greenhouse Gas Emissions/Concentration (secondary: breakdown by categor
 Primary: Arctic Ice Extent Analysis (seconday: Greenhouse Gas Emissions/Concentration and help with Ice Core data if needed)
 
 ### Ryan: 
-SubPolar/Polar Temperature Differences/Patterns/Trends (secondary: data pull, analysis of Ice Core data; some assistance from Danyelle likely)
-(if time allows: artic sea ice change)
-Temperate Zone:  US: China 
+Primary: SubPolar/Polar Temperature Differences/Patterns/Trends Arctic Zone: Norway, Netherlands. Temp/SubTropic: Hong Kong  Global: Mean Global Temp over time.  artic sea ice change in conjunction with Danyelle's work.  Develop powerpoint presentation. 
+
 
 ### Research Questions:
 (Main RQs)
