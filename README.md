@@ -33,20 +33,3 @@ What reasons might individuals/groups have for denying data that supports anthro
 What reasons might countries/state actors have for denying data that supports anthropogenic climate change and how might the data refute these claims?
 
 END OF GROUP OVERVIEW
-
-
-Individual RQ Overviews (optional)
-
-### Ryan's Research Questions for Temperature Variation / 
-#Has the earth undergone temperature changes in the artic regions ( since cerca the industrial revolution in the West?
-#Is there a trend and/or pattern in those temperature changes?
-#If patterns/trends are found, where are they most prominent?
-#How can these temperature trends be measured?
-#Where are temperature trends most salient?
-#What are the data sources used to measure temperature over time?
-#Why have these data sources been chosen?
-#What makes these data sources reliable?
-#What evidence might make these data sources questionable, if any?
-  ##(Big Idea/Group Question) What are the effects and/or measureable physical changes that can be directly/causaly linked to the temperature trends if any?
-How are different measurements/effects of climate change connected with the data from my group members and how can we use this data to measure these connections/networks of effects? Lastly, what conclusions and/or projections for the future can be drawn by combining our data and related findings?
-
