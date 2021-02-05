@@ -7,7 +7,7 @@ Primary: Temperate/Equatorial temperatures (Differences/Patterns/Trends) since i
 Primary: Greenhouse Gas Emissions/Concentration (secondary: breakdown by category, e.g., cars, industry)
 
 ### Danyelle: (GitMC) 
-Primary: Arctic Ice Extent Analysis (seconday: Greenhouse Gas Emissions/Concentration and help with Ice Core data if needed)
+Primary: Arctic Ice Extent Analysis (seconday: Greenhouse Gas Emissions/Concentration)
 
 ### Ryan: 
 Primary: SubPolar/Polar Temperature Differences/Patterns/Trends Arctic Zone: Norway, Netherlands. Temp/SubTropic: Hong Kong  Global: Mean Global Temp over time.  artic sea ice change in conjunction with Danyelle's work.  Develop powerpoint presentation. 
