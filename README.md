@@ -5,6 +5,7 @@ Primary: Temperate/Equatorial temperatures (Differences/Patterns/Trends) since i
 
 ### Alex: 
 Primary: Greenhouse Gas Emissions/Concentration (secondary: breakdown by category, e.g., cars, industry)
+*for alexs_work notebook, i had a few charts that were manually changed and screenshooted so we can have the information requested
 
 ### Danyelle: (GitMC) 
 Primary: Arctic Ice Extent Analysis (seconday: Greenhouse Gas Emissions/Concentration)
